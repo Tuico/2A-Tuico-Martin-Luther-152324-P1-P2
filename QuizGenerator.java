@@ -5,6 +5,10 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.*;
+//Group Members
+//Martin Luther Tuico
+//Fritz Lima
+//Rolando Lima
 
 //Main ni siya
 public class QuizGenerator {
