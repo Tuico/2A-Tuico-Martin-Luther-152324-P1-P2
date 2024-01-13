@@ -9,7 +9,7 @@ import java.util.*;
 //Martin Luther Tuico
 //Fritz Lima
 //Rolando Lima
-
+//Section: 2A-BSIT
 //Main ni siya
 public class QuizGenerator {
     private final List<Question> questions;
